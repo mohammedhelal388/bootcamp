@@ -1,0 +1,67 @@
+
+ul{
+    list-style: none;
+    left: 0;
+    margin: 0;
+    
+}
+.ul{
+    left: 0;
+}
+
+.headlist{
+    color: aliceblue;
+    display: flex;
+    
+}
+.li{
+    margin: 20px;
+}
+a{
+    list-style: none;
+    color: azure;
+    text-decoration: none;
+   border-style: solid;
+   border-color: aliceblue;
+   padding: 5;
+}
+li{
+    left: 0;
+}
+
+
+
+
+header{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70;
+    border-style: solid;
+    border-color: azure;
+}
+
+.bodylist{
+left: 0;
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    left: 0;
+    position: relative;
+
+}
+
+.color{
+    background-color: rebeccapurple;
+    width: 200px;
+    height: 200px;
+    position: sticky;
+    left: 50px;
+    top: 50;
+}
