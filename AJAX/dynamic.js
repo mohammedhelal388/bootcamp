@@ -32,4 +32,5 @@ function loadnews()
 function loadstudentinfo()
 {
     $('#response').load('dynamic.html')
+
 }
